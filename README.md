@@ -15,7 +15,7 @@ A database observability tool that ingests slow query logs, parses SQL execution
 |---|------|-------------|
 | 1 | `requirements_table.pdf` | 5 Functional Requirements (FR-001–FR-005) and 2 Non-Functional Requirements (NFR-001, NFR-002), each with Req ID, Type, Description, Priority, Acceptance Criteria, and Rationale. |
 | 2 | `uml_usecase_diagram.pdf` | Use-case diagram showing all actors, primary use cases, and at least one `«include»` and one `«extend»` relationship. |
-| 3 | `useCase_flow.pdf` | One-page flow for the "Generate Weekly Optimization Digest" use case, including Preconditions, Postconditions, Main Success Scenario, and Alternate Flows. |
+| 3 | `usecase_flow.pdf` | One-page flow for the "Generate Weekly Optimization Digest" use case, including Preconditions, Postconditions, Main Success Scenario, and Alternate Flows. |
 
 ## Summary
 
