@@ -1,4 +1,4 @@
-# LAB-1_Activity_Sujal_Sachin_Yadavi_PES1UG24CS475
+# MyProject_QueryProfiler
 
 **Individual Project Submission — Software Engineering**
 Sujal Sachin Yadavi · PES1UG24CS475
